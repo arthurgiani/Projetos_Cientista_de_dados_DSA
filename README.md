@@ -11,7 +11,7 @@ A Formação Cientista de Dados da Data Science Academy possui aproximadamente 4
 
 Para cada um dos cursos, uma pasta será criada neste repositório onde os projetos serão postados contendo os seguintes documentos:
 
-- Arquivo.md contendo a análise completa do projeto (relatório).
-- O Script comentado do projeto (R/Python).
-- Arquivo de licença.
-- O dataset utilizado no projeto (caso o arquivo seja muito grande, o link para download será postado).
+- Arquivo.md contendo a análise completa do projeto (relatório)
+- O Script comentado do projeto (R/Python)
+- Arquivo de licença
+- O dataset utilizado no projeto (caso o arquivo seja muito grande, o link para download será postado)
