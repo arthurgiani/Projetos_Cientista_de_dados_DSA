@@ -14,3 +14,4 @@ Para cada um dos cursos, uma pasta será criada neste repositório onde os proje
 - Arquivo.md contendo a análise completa do projeto (relatório).
 - O Script comentado do projeto (R/Python).
 - Arquivo de licença.
+- O dataset utilizado no projeto (caso o arquivo seja muito grande, o link para download será postado).
