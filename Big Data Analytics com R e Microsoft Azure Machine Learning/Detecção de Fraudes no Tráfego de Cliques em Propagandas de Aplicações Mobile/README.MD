@@ -129,6 +129,8 @@ No entanto foi possível alcançar um excelente resultado levando em consideraç
 
 A análise também indicou que praticamente todos os cliques fraudulentos são originados do mesmo smartphone. Nesse caso, seria interessante analisar a possibilidade de notificar a marca fabricante sobre o ocorrido pois pode indicar a presença de alguma falha de segurança interna do aparelho.
 
+Por fim, o cientista de dados pode sugerir a criação de um projeto de Real-Time Analytics para a análise de detecção de fraudes. Dessa forma as informações são processadas em tempo real e os resultados a respeito de cliques fraudulentos ou legítimos são atualizados de maneira ininterrupta, facilitando assim a rápida tomada de decisão dos gestores.
+
 
 
 
